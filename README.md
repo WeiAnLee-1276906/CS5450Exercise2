@@ -22,9 +22,3 @@ npm install react-native-screens react-native-safe-area-context
 /navigation
   - StackNavigator.js
 App.tsx (or App.js)
-
-3. Screenshots
-Home Screen and Message Screen shown below:
- 
-Supports full CRUD functionality (Create, Read, Update, Delete). 
-![image](https://github.com/user-attachments/assets/77ea156c-51df-4cee-8002-dc5bda49f175)
